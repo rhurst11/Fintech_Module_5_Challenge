@@ -58,7 +58,7 @@ Answer:
 
 Weighting the portfolio more heavily to stocks will not provide a reliable mechanism for retirement within ten years. 
 
-If the portfolio performed well, and the future value of it was closer to the projected high of roughly $470,532 retirement could be feasible 
+If the portfolio performed well, and the future value of it was closer to the projected high of roughly $480,532 retirement could be feasible 
 
 However, if the portfolio performs poorly and has a future value closer to the range low of $52,680, the cost of living would most likely consume this retirement fund too quickly to live off of until end of life assuming the user lives in the United States. 
 
