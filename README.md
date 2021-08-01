@@ -1,7 +1,20 @@
 # Fintech_Module_5_Challenge
 
 
-## Software Requirements
+## Software Requirements:
+
+  Python -- version 3.7.10,
+  Conda -- version 4.10.3,
+  Jupyter Lab -- version 3.0.14
+  
+  
+  Libraries:
+  Pandas,
+  JSON,
+  OS,
+  MCForecastTools,
+  Dotenv,
+  Alpaca Trade API
 
 
 ## Description:
