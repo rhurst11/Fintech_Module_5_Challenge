@@ -15,10 +15,18 @@ The second tool for financial anlysis is a financial planner for retirement. Thi
     
 ## Thirty Year Monte Carlo Simulation Analysis: 
 
+![alt text]()
+
+![alt text]()
+
 There is a 95% chance that the future value of the member's stock and bond portfolio will fall between a range of $167,952.93 and $2,850,171.79.
 
 
 ## Ten Year:
+
+![alt text]()
+
+![alt text]()
 
 There is a 95% chance that the future value of the member's stock and bond portfolio will fall between a range of $52983.47 and $480169.90.
 
