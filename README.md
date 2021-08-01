@@ -28,7 +28,7 @@ There is a 95% chance that the future value of the member's stock and bond portf
 
 ![alt text](https://github.com/rhurst11/Fintech_Module_5_Challenge/blob/main/Screenshots_Mod_5/10_yr_mod_5_CI.png)
 
-There is a 95% chance that the future value of the member's stock and bond portfolio will fall between a range of $52983.47 and $480169.90.
+There is a 95% chance that the future value of the member's stock and bond portfolio will fall between a range of $52,983.47 and $480,169.90.
 
 
 ### Final Question: Will weighting the portfolio more heavily to stocks allow the credit union members to retire after only 10 years?
