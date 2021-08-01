@@ -19,6 +19,10 @@ The second tool for financial anlysis is a financial planner for retirement. Thi
 
 ![alt text](https://github.com/rhurst11/Fintech_Module_5_Challenge/blob/main/Screenshots_Mod_5/30_yr_mod_5_CI.png)
 
+### Question: What are the lower and upper bounds for the expected value of the portfolio in 30 years with a 95% confidence interval? 
+
+Answer: 
+
 There is a 95% chance that the future value of the member's stock and bond portfolio will fall between a range of $167,952.93 and $2,850,171.79.
 
 
@@ -27,6 +31,10 @@ There is a 95% chance that the future value of the member's stock and bond portf
 ![alt text](https://github.com/rhurst11/Fintech_Module_5_Challenge/blob/main/Screenshots_Mod_5/10_yr_mod_5_MC.png)
 
 ![alt text](https://github.com/rhurst11/Fintech_Module_5_Challenge/blob/main/Screenshots_Mod_5/10_yr_mod_5_CI.png)
+
+### Question: What are the lower and upper bounds for the expected value of the portfolio in ten years (with the new weights) with a 95% confidence interval? 
+
+Answer: 
 
 There is a 95% chance that the future value of the member's stock and bond portfolio will fall between a range of $52,983.47 and $480,169.90.
 
